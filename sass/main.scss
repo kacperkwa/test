@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	display: flex;
+	height: 100vh;
+	font-family: 'Ubuntu', sans-serif;
+	overflow: hidden;
+	align-items: center;
+	width: 50px;
+	color: #fff;
+	background: red;
+}
